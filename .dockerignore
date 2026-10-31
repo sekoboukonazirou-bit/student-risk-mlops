@@ -1,0 +1,8 @@
+.venv
+data/
+__pycache__
+*.ipynb
+check_model.py
+check_model2.py
+build_preprocessor.py
+exemple_etudiant.json
